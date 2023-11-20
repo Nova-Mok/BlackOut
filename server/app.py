@@ -22,7 +22,6 @@ SERP_API_KEY= "9223799ec01c832b53f808fddda368e01fbaa667039f9efa124ae7bfc9fd98c1"
 CLEARBIT_API_KEY ="sk_07f73ef8cddcd33ecab47f2049a8c78c"
 openai.api_key='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'
 GPT_MODEL = 'gpt-3.5-turbo'
-OPENAI_API_KEY = os.getenv('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')
 
 
 # OAuth Configuration
